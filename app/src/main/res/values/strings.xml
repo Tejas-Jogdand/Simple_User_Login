@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">User LogIn</string>
+    <string name="enter_your_email_id">Enter Your Email ID</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="wecome_page">Wecome Page</string>
+</resources>
